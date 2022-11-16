@@ -10,7 +10,7 @@
 * Планы по доработке
 
 ## Ссылка на сайт:
-https://tatianakud.github.io/Work-3.0/
+https://tatianakud.github.io/Project-5.0/
 
 
 ## How to learn. The second project for Yandex.Praktikum
@@ -24,4 +24,4 @@ Stack
 * CSS-animation
 * Future improvements
 ## URL:
-https://tatianakud.github.io/Work-3.0/
+https://tatianakud.github.io/Project-5.0/
